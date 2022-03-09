@@ -6,3 +6,5 @@ Raspagem de dados
 * ativar o ambiente virtual:
   source < nome do ambiente virtual >/bin/activate
 
+*instalar dependencias
+  python (ou python3 para linux) -m pip install requests
